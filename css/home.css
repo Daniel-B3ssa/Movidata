@@ -9,7 +9,9 @@
   padding: 0 12px;
 }
 
-.servico-lista h1,
+.servico-lista h1 {
+  margin-bottom: 26px;
+}
 .servico-lista h2 {
   margin-bottom: 24px;
 }
@@ -21,7 +23,25 @@
 
 .servico-lista li {
   display: flex;
-  padding: 14px 0;
+  padding: 13px 0;
   gap: 8px;
   border-bottom: 1px solid #f0f0f0;
+}
+
+.contabil img {
+  width: 100%;
+  display: block;
+}
+
+.contabil-conteudo {
+  background: #fbfbfb;
+  padding: 24px;
+}
+
+.contabil-conteudo h3 {
+  padding-bottom: 12px;
+}
+
+.contabil-conteudo p {
+  padding-bottom: 24px;
 }
