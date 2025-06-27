@@ -1,0 +1,21 @@
+.slide img {
+  width: 100%;
+}
+
+.menu-bg {
+  background: var(--cor-3);
+}
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 70px;
+  gap: 24px;
+}
+
+.menu-lista {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 28px;
+}
