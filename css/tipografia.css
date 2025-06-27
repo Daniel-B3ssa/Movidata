@@ -1,18 +1,33 @@
 .font-30px {
-  font: 500 1.875rem/100% "Univers Next Pro", sans-serif;
+  font: 500 1.875rem/100% "Roboto", sans-serif;
+}
+
+.font-20px {
+  font: 500 1.25rem/100% "Roboto", sans-serif;
+}
+
+.font-18px {
+  font: 500 1.125rem/150% "Roboto", sans-serif;
 }
 
 .font-16px {
-  font: 300 1rem/150% "Univers Next Pro", sans-serif;
+  font: 300 1rem/150% "Roboto", sans-serif;
 }
 .font-16-1px {
-  font: 400 1rem/150% "Univers Next Pro", sans-serif;
+  font: 400 1rem/150% "Roboto", sans-serif;
 }
 
 .font-16-2px {
-  font: 500 1rem/150% "Univers Next Pro", sans-serif;
+  font: 500 1rem/150% "Roboto", sans-serif;
 }
 
 .font-14px {
-  font: 300 0.875rem/155% "Univers Next Pro", sans-serif;
+  font: 300 0.875rem/155% "Roboto", sans-serif;
+}
+.font-14px-1 {
+  font: 600 0.875rem/155% "Roboto", sans-serif;
+}
+
+.font-14px-2 {
+  font: 500 0.875rem/155% "Roboto", sans-serif;
 }

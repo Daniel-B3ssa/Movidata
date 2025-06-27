@@ -1,0 +1,27 @@
+.servico-bg {
+  background: var(--cor-0);
+  margin: 90px 0;
+}
+
+.servico {
+  display: flex;
+  gap: 24px;
+  padding: 0 12px;
+}
+
+.servico-lista h1,
+.servico-lista h2 {
+  margin-bottom: 24px;
+}
+
+.servico-lista li img {
+  width: 20px;
+  height: auto;
+}
+
+.servico-lista li {
+  display: flex;
+  padding: 14px 0;
+  gap: 8px;
+  border-bottom: 1px solid #f0f0f0;
+}

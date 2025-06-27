@@ -1,7 +1,8 @@
-@import "./css/cores.css";
-@import "./css/componentes.css";
 @import "./css/header.css";
+@import "./css/home.css";
+@import "./css/componentes.css";
 @import "./css/tipografia.css";
+@import "./css/cores.css";
 @import "./css/serviços.css";
 
 /* Reset css */
