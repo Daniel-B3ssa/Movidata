@@ -1,0 +1,27 @@
+.depoimento-bg {
+  background: var(--cor-0);
+}
+
+.depoimento {
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+.depoimento-texto {
+  text-align: center;
+}
+
+.depoimento-lista {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+.depoimento-itens {
+  background-color: #fbfbfb;
+  padding: 24px;
+}
+
+.depoimento-itens p {
+  margin-bottom: 10px;
+}
