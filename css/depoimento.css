@@ -1,27 +1,39 @@
 .depoimento-bg {
-  background: var(--cor-0);
-}
-
-.depoimento {
-  margin-top: 90px;
-  margin-bottom: 90px;
+  padding: 90px 12px 90px 12px;
 }
 
 .depoimento-texto {
   text-align: center;
 }
 
-.depoimento-lista {
-  display: flex;
-  gap: 24px;
-  align-items: center;
+.depoimento-texto h2 {
+  margin-bottom: 22px;
 }
 
-.depoimento-itens {
-  background-color: #fbfbfb;
+.depoimento-texto h3 {
+  margin-bottom: 18px;
+}
+
+.depoimento-texto p {
+  margin-bottom: 24px;
+}
+
+.depoimentos-lista {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 24px;
+}
+
+.depoimentos-items {
+  background: #fbfbfb;
   padding: 24px;
 }
 
-.depoimento-itens p {
-  margin-bottom: 10px;
+.depoimentos-items strong {
+  margin-top: 10px;
+}
+
+.depoimentos-items strong,
+.depoimentos-items span {
+  text-align: right;
 }

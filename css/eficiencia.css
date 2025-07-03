@@ -1,26 +1,26 @@
-.sobre {
+.eficiencia {
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 32px;
 }
 
-.sobre-bg {
+.eficiencia-bg {
   background: #fdfdfe;
 }
 
-.sobre-conteudo h2 {
+.eficiencia-conteudo h2 {
   margin-bottom: 24px;
 }
 
-.sobre-conteudo h3 {
+.eficiencia-conteudo h3 {
   margin-bottom: 14px;
 }
 
-.sobre-conteudo {
+.eficiencia-conteudo {
   justify-content: center;
   margin-top: 60px;
 }
 
-.sobre-conteudo p {
+.eficiencia-conteudo p {
   margin-bottom: 18px;
 }
